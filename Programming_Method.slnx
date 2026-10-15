@@ -3,12 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Programming_Method/Programming_Method.vcxproj" Id="05db65af-859b-4f9f-9c75-75390ea35177" />
-  <Project Path="Programming_Methodg/Programming_Methodg.vcxproj" Id="5267a785-b53a-4a97-ad9b-984ab5c5f102" />
   <Project Path="Programming_Method_1-14/Programming_Method_1-14.vcxproj" Id="e27dfa53-7ae5-4e59-a170-39c621c5bbaf" />
   <Project Path="Programming_Method_1-17/Programming_Method_1-17.vcxproj" Id="f4c95afa-0447-4729-9774-54295fb8b5f1" />
   <Project Path="Programming_Method_1-18/Programming_Method_1-18.vcxproj" Id="be43e7fb-addd-43d5-a965-22c686479a91" />
   <Project Path="Programming_Method_1-8/Programming_Method_1-8.vcxproj" Id="f9c24d69-e3b8-49ca-bbe1-fad89c410f31" />
   <Project Path="Programming_Method_1-9/Programming_Method_1-9.vcxproj" Id="755adaa9-ab48-4ee6-8b95-c50288aacc01" />
-  <Project Path="Programming_Method_2/Programming_Method_2.vcxproj" Id="e9b599b2-91a3-4ec2-a704-6ec405058eed" />
 </Solution>
