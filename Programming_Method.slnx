@@ -3,9 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Programming_Method_1-10/Programming_Method_1-10.vcxproj" Id="5566c843-a78c-4318-a11f-5c65e63a948a" />
+  <Project Path="Programming_Method_1-12/Programming_Method_1-12.vcxproj" Id="b56f02d7-a429-45f4-9144-3d17b79d2e26" />
   <Project Path="Programming_Method_1-14/Programming_Method_1-14.vcxproj" Id="e27dfa53-7ae5-4e59-a170-39c621c5bbaf" />
   <Project Path="Programming_Method_1-17/Programming_Method_1-17.vcxproj" Id="f4c95afa-0447-4729-9774-54295fb8b5f1" />
   <Project Path="Programming_Method_1-18/Programming_Method_1-18.vcxproj" Id="be43e7fb-addd-43d5-a965-22c686479a91" />
   <Project Path="Programming_Method_1-8/Programming_Method_1-8.vcxproj" Id="f9c24d69-e3b8-49ca-bbe1-fad89c410f31" />
   <Project Path="Programming_Method_1-9/Programming_Method_1-9.vcxproj" Id="755adaa9-ab48-4ee6-8b95-c50288aacc01" />
+  <Project Path="Programming_Method_2-1/Programming_Method_2-1.vcxproj" Id="c0ace71b-ff70-41cb-8fd9-d841e8229b07" />
+  <Project Path="Programming_Method_2-2/Programming_Method_2-2.vcxproj" Id="0ae9847a-06aa-46aa-8319-83514a2a9a24" />
+  <Project Path="Programming_Method_20&amp;21/Programming_Method_20&amp;21.vcxproj" Id="5554334f-4ccd-42ae-95d8-6b977594e594" />
 </Solution>
