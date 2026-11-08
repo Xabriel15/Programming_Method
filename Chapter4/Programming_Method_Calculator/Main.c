@@ -1,4 +1,5 @@
 // This program goes from task 4.3 to 4.10, implementing a calculator with variables and additional commands.
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
